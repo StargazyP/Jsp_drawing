@@ -20,7 +20,7 @@ Jsp_drawing 프로젝트는 JSP(JavaServer Pages)를 사용하여 간단한 게�
 
 ## 아키텍처
 
-Jsp_drawing 프로젝트의 아키텍처는 MVC(Model-View-Controller) 패턴을 따릅니다. 주요 구성 요소는 다음과 같습니다:
+프로젝트의 아키텍처는 MVC(Model-View-Controller) 패턴을 따릅니다.
 
 ### 모델(Model)
 
