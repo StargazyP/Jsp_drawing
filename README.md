@@ -65,5 +65,21 @@ Jsp_drawing 프로젝트는 JSP(JavaServer Pages)를 사용하여 간단한 게�
   - `css/`: 스타일 시트 파일들
   - `js/`: 자바스크립트 파일들
   - `WEB-INF/`: 웹 애플리케이션 설정 파일들
+  - 
+### 프론트엔드(Frontend)
 
+- **HTML**: 웹 페이지의 구조를 정의하는 마크업 언어
+- **CSS**: 웹 페이지의 스타일링을 담당, Bootstrap 라이브러리를 사용하여 반응형 디자인 구현
+- **JavaScript**: 동적인 사용자 인터페이스를 구현, 클라이언트 측 로직 처리
+- **JSP (JavaServer Pages)**: 서버 측에서 동적으로 HTML 콘텐츠를 생성
+
+### 백엔드(Backend)
+
+- **Java**: 서버 측 로직 구현, JSP와 서블릿을 사용
+- **JDBC (Java Database Connectivity)**: 데이터베이스와의 상호작용을 위한 Java API
+- **WebSocket**: 실시간 통신을 위한 프로토콜, 실시간 채팅 기능 구현
+
+### 데이터베이스(Database)
+
+- **MySQL**: 관계형 데이터베이스 관리 시스템, 사용자 정보와 게시물 데이터를 저장
 
